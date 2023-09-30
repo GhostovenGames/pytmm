@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-from pytmm.cli import hmtsg
+from pytmm.cli import pytmm
 
 if __name__ == "__main__":
-    hmtsg()
+    pytmm()

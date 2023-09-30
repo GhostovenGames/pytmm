@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pytmm"
-version = "0.1.0"
+version = "0.1.1"
 description = "PYthon TileMap Manager is a small command line program to manage your tilemaps."
 authors = ["ambertide <egeemirozkan24@gmail.com>"]
 readme = "README.md"
